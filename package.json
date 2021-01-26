@@ -9,10 +9,6 @@
     "unlink": "@mauron85/react-native-background-geolocation/scripts/postunlink.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mauron85/react-native-background-geolocation.git"
-  },
   "keywords": [
     "gps",
     "geolocation",
@@ -28,10 +24,6 @@
   ],
   "author": "Marian Hello",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/mauron85/react-native-background-geolocation/issues"
-  },
-  "homepage": "https://github.com/mauron85/react-native-background-geolocation#readme",
   "dependencies": {
     "plist": "^3.0.1"
   },
