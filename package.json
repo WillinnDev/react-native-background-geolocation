@@ -29,5 +29,6 @@
   },
   "peerDependencies": {
     "react-native": ">=0.60.5"
-  }
+  },
+  "homepage": "https://github.com/Switch-Software-Solutions/react-native-background-geolocation#readme"
 }
